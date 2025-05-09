@@ -13,10 +13,10 @@ This solution uses VLC media player software (free and open source). [VLC](https
 
 ![screen](screenshot/Screen.png)
 
-![screen](screenshot/MOSAIQUE - Exemple.gif)
+![screen](screenshot/MOSAIQUE-Exemple.gif)
 
 ## Architecture
-![screen](screenshot/Unicast screen sharing.png)
+![screen](screenshot/Unicast_screen_sharing.png)
 
 ## Requirements
 
