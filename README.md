@@ -52,6 +52,7 @@ On the PC hosting the mosaic :
 - In the "EKARA_MOSAIC.vlm" file:
     - Configure / Add / Delete the blocks corresponding to the robots to be displayed in the mosaic (IP address / Port).
     - Configure / Add / Delete "control" lines for each robot.
+    - On the "setup mosaic input" line configure the mosaic background (You have 5 different models) 
 
 - In the "Run_VLC_Mosaic.cmd" file: 
     - Configure the path where "vlc.exe" is installed (VLC_PATH). 
