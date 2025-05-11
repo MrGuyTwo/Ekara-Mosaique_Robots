@@ -59,4 +59,3 @@ On the PC hosting the mosaic :
     - Configure the path where the "VLC_MOSAIC" folder was dropped (VLC_MOSAIC_CONF).
 
 - If you want the mosaic to start automatically, move the "Run_VLC_Mosaic.cmd" file to the “startup” folder of the user profile that starts the PC session. . ((Win-key + R) shell:startup)
-
