@@ -22,6 +22,7 @@ This solution uses VLC media player software (free and open source). [VLC](https
 
 -|version
 --|:--:
+Private robot|>=1
 VLC media player software|>=Any
 
 ## Download
